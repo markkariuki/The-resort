@@ -12,6 +12,5 @@
 
 >---
 >implimentation:
->To view the websit  [click here]()
-
+>To view the websit  [click here](https://markkariuki.github.io/The-resort/)
 >---
